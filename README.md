@@ -4,6 +4,9 @@
 
 A multi-page restaurant website generated entirely using JavaScript modules and bundled with Webpack.
 
+<img width="2559" height="1362" alt="image" src="https://github.com/user-attachments/assets/ba60c679-2638-4ffc-8ad1-3d1584c9909c" />
+
+
 ## Features
 - Dynamic homepage, menu, and contact modules
 - Navigation bar
