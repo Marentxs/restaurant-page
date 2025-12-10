@@ -2,7 +2,7 @@ export default function loadMenu() {
   const container = document.createElement("div");
   container.classList.add("menu");
 
-  container.innerHTML = `<h1>Menu</h1>
+  container.innerHTML = `
     <ul>
       <li>Truffle Lobster Risotto</li>
       <p>Creamy Arborio rice infused with white truffle and topped with tender butter-poached lobster.</p>
